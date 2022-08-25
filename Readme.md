@@ -6,7 +6,9 @@
 
 
 
-## Project Title - Penail.in Landing Page | Hackathon
+
+## Project Title -  Penail.in Landing Page | Hackathon
+![pensil logo svg](https://user-images.githubusercontent.com/92782806/186670426-87a63904-f2e3-435b-81c9-47bdf3118e8a.svg)
 
 Landing page of pensil.in for hackathon, It's a single page project which has Hero section, Community Description with owner details. It also has Group section, FAQs section, testimonial an many more. Check it out once.
 
