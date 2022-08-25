@@ -28,13 +28,7 @@ Project mjorly built from
 HTML, TailwindCss, CSS...
 
 ## Demo | Netlify
-
-
-
-## Screenshots
-
-
-
+https://pensilin.netlify.app/
 
 ## Features
 
@@ -42,6 +36,11 @@ HTML, TailwindCss, CSS...
 - Mobile View
 - Live previews
 - Fullscreen mode
+
+## Screenshoots
+
+![pensil in](https://user-images.githubusercontent.com/92782806/186663083-c06fb201-b1ce-4393-8f71-50f0fb62f387.png)
+
 
 
 ## Feedback
